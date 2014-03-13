@@ -39,7 +39,7 @@ or the following main function
 >main = print (lattice (groupObj g1 i1 []) (groupAtt m1 i1 []) g1 )
 
 
-Examples for Lattice
+Different examples for Lattice
 
 >g1 = ["1","2","3","4","5"]
 >m1 = ["a","b","c","d","e"]
